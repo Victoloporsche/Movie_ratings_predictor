@@ -9,8 +9,8 @@ Model training and prediction)
 This implementation is written with Python version 3.6 with the listed packages in the requirements.txt file
 
 Clone this repository with git clone https://github.com/Victoloporsche/Movie_ratings_predictor.git
-With Virtual Environent, use : a) pip install virtualenv b) cd c) virtualenv myenv d) source myenv/bin/activate e) pip install -r requirements.txt
-With Conda Environment, use: a) cd b) conda create --name myenv c) source activate myenv d) pip install -r requirements.txt
+With Virtual Environent, use : a) pip install virtualenv b) virtualenv myenv c) source myenv/bin/activate d) pip install -r requirements.txt
+With Conda Environment, use: a) conda create --name myenv b) source activate myenv c) pip install -r requirements.txt
 
 # Implementation Folder:
 
